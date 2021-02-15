@@ -49,4 +49,4 @@ To set player to start video at specific point, for example at 2 minutes 15 seco
 Usage of parameters:
 {videobox}video ID or videos#offset||width=600,height=450,t_width=215{/videobox}
 
-Further information and support: hitko.io
+Further information and support: https://github.com/HitkoDev/Videobox-Joomla
