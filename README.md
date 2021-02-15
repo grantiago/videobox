@@ -1,11 +1,13 @@
 # videobox
-mirror of hitko videobox plugin for joomla
+mirror of hitko videobox plugin for joomla his current release (4 years old) has a fatal error 
+
 Videobox - Video and audio player, and gallery for articles - V3.1.0
 
 Usage
 Single video:
 {videobox}video ID{/videobox}
 (video ID is what's coloured blue in the following links: http://www.youtube.com/watch?v=KKWTdt5YW_I&feature=plcp
+
 http://vimeo.com/31778558)
 
 Gallery of videos:
@@ -45,4 +47,4 @@ To set player to start video at specific point, for example at 2 minutes 15 seco
 Usage of parameters:
 {videobox}video ID or videos#offset||width=600,height=450,t_width=215{/videobox}
 
-Further information and support: Videobox
+Further information and support: hitko.io
