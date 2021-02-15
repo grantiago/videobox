@@ -1,12 +1,14 @@
 # videobox
-mirror of hitko videobox plugin for joomla his current release (4 years old) has a fatal error 
+archive of working hitko videobox plugin for joomla his current release (4 years old) has a fatal error 
 
 Videobox - Video and audio player, and gallery for articles - V3.1.0
 
 Usage
 Single video:
 {videobox}video ID{/videobox}
-(video ID is what's coloured blue in the following links: http://www.youtube.com/watch?v=KKWTdt5YW_I&feature=plcp
+(video ID is what's coloured blue in the following links: 
+
+http://www.youtube.com/watch?v=KKWTdt5YW_I&feature=plcp
 
 http://vimeo.com/31778558)
 
